@@ -7,4 +7,8 @@ Example Dynatrace Dashboards for the Security Aware
 > Dynatrace Security Dashboards is maintained by Dynatrace Solution Engineers. It is not part of an Dynatrace
 > service and support is provided as a best-effort by the Dynatrace Security community. To provide feedback,
 > please use the [issues templates](https://github.com/UndefinedJoe/DynatraceSecurityDashboards/issues)
-> provided. If you are interested in contributing to this prooject, please contact me!
+> provided. If you are interested in contributing to this project, please contact me!
+
+## License
+Apache-2.0 Licensed. See [LICENSE](https://github.com/UndefinedJoe/DynatraceSecurityDashboards/blob/main/LICENSE).
+
